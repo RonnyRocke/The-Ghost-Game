@@ -28,9 +28,7 @@ Agora, em sua forma pós-vida, ele busca o que nunca teve: **corações**.
   <img src="https://github.com/user-attachments/assets/2754ec97-11cd-471d-9b15-13b5123656ff" width="320px" />
   <br><br>
 
-  <div style="max-width: 320px; display: inline-block;">
-    <video src="https://github.com/user-attachments/assets/6bd9fcca-6dc9-4304-8ba6-a3a132fca0ed" autoplay loop muted controls style="width: 100%; border-radius: 12px;"></video>
-  </div>
+  <video src="https://github.com/user-attachments/assets/6bd9fcca-6dc9-4304-8ba6-a3a132fca0ed" controls width="320px" style="border-radius: 12px;"></video>
 
   <br>
   <sub><i>Por Ronny Rocke</i></sub>
