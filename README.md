@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/d23c492d-97d2-43ff-8ddb-7216fb9d4b43" width="320px" />
+<img src="https://github.com/user-attachments/assets/d23c492d-97d2-43ff-8ddb-7216fb9d4b43" width="260px" />
 
 # 👻 THE GHOST
 > *“Um fantasma que nunca foi amado… agora coleciona corações.”*
@@ -25,13 +25,16 @@ Agora, em sua forma pós-vida, ele busca o que nunca teve: **corações**.
 ## 📸 Demonstração do Jogo
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2754ec97-11cd-471d-9b15-13b5123656ff" width="380px" />
-  <br><br>
-  <video src="https://github.com/user-attachments/assets/6bd9fcca-6dc9-4304-8ba6-a3a132fca0ed" width="380px" autoplay loop muted></video>
-  <br>
-  <sub><i>Por Ronny Rocke</i></sub>
-</div>
 
+<img src="https://github.com/user-attachments/assets/2754ec97-11cd-471d-9b15-13b5123656ff" width="320px" />
+<br><br>
+
+<video src="https://github.com/user-attachments/assets/6bd9fcca-6dc9-4304-8ba6-a3a132fca0ed" width="320" autoplay loop muted></video>
+
+<br>
+<sub><i>Por Ronny Rocke</i></sub>
+
+</div>
 
 ---
 
@@ -43,7 +46,7 @@ Agora, em sua forma pós-vida, ele busca o que nunca teve: **corações**.
 - E lembre-se: o amor nunca morre… mesmo para os mortos
 
 ---
- 
+
 ## 🧠 Mecânicas
 
 - 🌧️ Clima chuvoso e atmosfera melancólica  
@@ -57,7 +60,7 @@ Agora, em sua forma pós-vida, ele busca o que nunca teve: **corações**.
 ## 🛠️ Feito Com
 
 - [GameMaker Studio 2](https://www.yoyogames.com/gamemaker)  
-- Arte e lógica por Ronny Rocke  
+- Arte e lógica por **Ronny Rocke**  
 - Fontes pixeladas retrô  
 - Música e SFX personalizados
 
