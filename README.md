@@ -26,10 +26,8 @@ Agora, em sua forma pós-vida, ele busca o que nunca teve: **corações**.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2754ec97-11cd-471d-9b15-13b5123656ff" width="380px" />
-  <br>
-  <br>
-  <video src="https://github.com/user-attachments/assets/847d7396-8e1e-4bc1-98e7-a2264472f6bf
-" width="380px" />
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/847d7396-8e1e-4bc1-98e7-a2264472f6bf" width="380px" />
   <br>
   <sub><i>Por Ronny Rocke</i></sub>
 </div>
@@ -47,10 +45,10 @@ Agora, em sua forma pós-vida, ele busca o que nunca teve: **corações**.
 
 ## 🧠 Mecânicas
 
-- 🌧️ Clima chuvoso e atmosfera melancólica
-- 💘 Corações caindo aleatoriamente
-- 🎯 Metas que aumentam com a pontuação
-- 💥 Efeitos de partículas e tremores a cada coleta
+- 🌧️ Clima chuvoso e atmosfera melancólica  
+- 💘 Corações caindo aleatoriamente  
+- 🎯 Metas que aumentam com a pontuação  
+- 💥 Efeitos de partículas e tremores a cada coleta  
 - 🎵 Música de introdução no menu principal
 
 ---
