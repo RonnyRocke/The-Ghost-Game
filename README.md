@@ -42,7 +42,7 @@ Agora, em sua forma pós-vida, ele busca o que nunca teve: **corações**.
 - E lembre-se: o amor nunca morre… mesmo para os mortos
 
 ---
-
+ 
 ## 🧠 Mecânicas
 
 - 🌧️ Clima chuvoso e atmosfera melancólica  
