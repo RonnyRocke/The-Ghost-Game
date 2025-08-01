@@ -70,4 +70,4 @@ Agora, em sua forma pós-vida, ele busca o que nunca teve: **corações**.
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/the-ghost.git nao quero que o video comece mutado se eu iniciar
+   git clone https://github.com/RonnyRocke/The-Ghost-Game.git
