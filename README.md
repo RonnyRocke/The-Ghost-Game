@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/d23c492d-97d2-43ff-8ddb-7216fb9d4b43" width="260px" />
+<img src="https://github.com/user-attachments/assets/d23c492d-97d2-43ff-8ddb-7216fb9d4b43" width="320px" />
 
 # 👻 THE GHOST
 > *“Um fantasma que nunca foi amado… agora coleciona corações.”*
@@ -25,15 +25,15 @@ Agora, em sua forma pós-vida, ele busca o que nunca teve: **corações**.
 ## 📸 Demonstração do Jogo
 
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/2754ec97-11cd-471d-9b15-13b5123656ff" width="320px" />
+  <br><br>
 
-<img src="https://github.com/user-attachments/assets/2754ec97-11cd-471d-9b15-13b5123656ff" width="320px" />
-<br><br>
+  <div style="max-width: 320px; display: inline-block;">
+    <video src="https://github.com/user-attachments/assets/6bd9fcca-6dc9-4304-8ba6-a3a132fca0ed" autoplay loop muted controls style="width: 100%; border-radius: 12px;"></video>
+  </div>
 
-<video src="https://github.com/user-attachments/assets/6bd9fcca-6dc9-4304-8ba6-a3a132fca0ed" width="130px" autoplay loop muted></video>
-
-<br>
-<sub><i>Por Ronny Rocke</i></sub>
-
+  <br>
+  <sub><i>Por Ronny Rocke</i></sub>
 </div>
 
 ---
