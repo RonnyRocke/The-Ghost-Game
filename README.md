@@ -27,10 +27,11 @@ Agora, em sua forma pós-vida, ele busca o que nunca teve: **corações**.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2754ec97-11cd-471d-9b15-13b5123656ff" width="380px" />
   <br><br>
-  <video src="assets/jogando.mp4" width="380px" autoplay loop muted></video>
+  <video src="https://github.com/user-attachments/assets/6bd9fcca-6dc9-4304-8ba6-a3a132fca0ed" width="380px" autoplay loop muted></video>
   <br>
   <sub><i>Por Ronny Rocke</i></sub>
 </div>
+
 
 ---
 
