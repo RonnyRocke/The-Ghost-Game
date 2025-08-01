@@ -1,0 +1,11 @@
+*.yy~
+*.tmp
+*.log
+*.dll
+.idea/
+.vscode/
+*.autosave
+*.db
+*.exe
+*.dmp
+.yyc/
